@@ -1,61 +1,16 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-28T02:55:14.850Z",
+  "generatedAt": "2026-11-28T03:00:14.856Z",
   "symbol": "BTCUSDT",
   "source": "BINANCE",
   "sourceHost": "https://api-gcp.binance.com",
   "fallbackUsed": false,
   "price": {
-    "value": 59981.52,
-    "timestamp": 1795834515182
+    "value": 59968.18,
+    "timestamp": 1795834815214
   },
   "candles": {
     "1m": [
-      {
-        "openTime": 1795820100000,
-        "closeTime": 1795820159999,
-        "open": 59841.33,
-        "high": 59841.34,
-        "low": 59823.58,
-        "close": 59823.58,
-        "volume": 1.37851
-      },
-      {
-        "openTime": 1795820160000,
-        "closeTime": 1795820219999,
-        "open": 59823.59,
-        "high": 59823.59,
-        "low": 59790.9,
-        "close": 59815.95,
-        "volume": 2.91129
-      },
-      {
-        "openTime": 1795820220000,
-        "closeTime": 1795820279999,
-        "open": 59815.94,
-        "high": 59837.87,
-        "low": 59815.46,
-        "close": 59815.46,
-        "volume": 3.11089
-      },
-      {
-        "openTime": 1795820280000,
-        "closeTime": 1795820339999,
-        "open": 59815.47,
-        "high": 59815.47,
-        "low": 59746.05,
-        "close": 59769.49,
-        "volume": 8.47306
-      },
-      {
-        "openTime": 1795820340000,
-        "closeTime": 1795820399999,
-        "open": 59769.48,
-        "high": 59784.76,
-        "low": 59735.86,
-        "close": 59737.25,
-        "volume": 215.68151
-      },
       {
         "openTime": 1795820400000,
         "closeTime": 1795820459999,
@@ -2170,18 +2125,54 @@
         "low": 59979.22,
         "close": 59990,
         "volume": 0.94562
+      },
+      {
+        "openTime": 1795834500000,
+        "closeTime": 1795834559999,
+        "open": 59990.01,
+        "high": 59993.52,
+        "low": 59975.11,
+        "close": 59987.37,
+        "volume": 2.5319
+      },
+      {
+        "openTime": 1795834560000,
+        "closeTime": 1795834619999,
+        "open": 59987.37,
+        "high": 59992.79,
+        "low": 59971.92,
+        "close": 59981.49,
+        "volume": 23.34344
+      },
+      {
+        "openTime": 1795834620000,
+        "closeTime": 1795834679999,
+        "open": 59981.49,
+        "high": 59991.24,
+        "low": 59981,
+        "close": 59991.24,
+        "volume": 22.79119
+      },
+      {
+        "openTime": 1795834680000,
+        "closeTime": 1795834739999,
+        "open": 59991.23,
+        "high": 59991.23,
+        "low": 59981.95,
+        "close": 59981.95,
+        "volume": 2.93942
+      },
+      {
+        "openTime": 1795834740000,
+        "closeTime": 1795834799999,
+        "open": 59981.96,
+        "high": 59981.96,
+        "low": 59968.18,
+        "close": 59968.19,
+        "volume": 41.39604
       }
     ],
     "15m": [
-      {
-        "openTime": 1795777200000,
-        "closeTime": 1795778099999,
-        "open": 61666.21,
-        "high": 61676,
-        "low": 61518.62,
-        "close": 61641,
-        "volume": 153.42737
-      },
       {
         "openTime": 1795778100000,
         "closeTime": 1795778999999,
@@ -2739,18 +2730,18 @@
         "low": 59990,
         "close": 59990.01,
         "volume": 72.92144
+      },
+      {
+        "openTime": 1795833900000,
+        "closeTime": 1795834799999,
+        "open": 59990,
+        "high": 59993.52,
+        "low": 59930,
+        "close": 59968.19,
+        "volume": 128.26142
       }
     ],
     "1h": [
-      {
-        "openTime": 1795575600000,
-        "closeTime": 1795579199999,
-        "open": 59239.64,
-        "high": 59671.2,
-        "low": 59032.19,
-        "close": 59421.85,
-        "volume": 919.90282
-      },
       {
         "openTime": 1795579200000,
         "closeTime": 1795582799999,
@@ -3380,6 +3371,15 @@
         "low": 59834.38,
         "close": 60186.64,
         "volume": 357.36197
+      },
+      {
+        "openTime": 1795831200000,
+        "closeTime": 1795834799999,
+        "open": 60186.64,
+        "high": 60266.01,
+        "low": 59930,
+        "close": 59968.19,
+        "volume": 366.182
       }
     ],
     "4h": [
@@ -4189,7 +4189,7 @@
   "health": {
     "status": "OK",
     "fresh": true,
-    "lastClosed15m": "2026-11-28T02:44:59.999Z",
+    "lastClosed15m": "2026-11-28T02:59:59.999Z",
     "lookback15mMinutes": 945,
     "validationErrors": []
   },
